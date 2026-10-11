@@ -6,11 +6,3 @@
    1. Python 
    2. Python idle
    3. Python Libraries
-
-## Author :
-   Lavnish Singh
-   
-   Email: lavnishsingh1997@gmail.com
-
-## Link :
-   url : https://lavnish1997.github.io/Banking_Account_Simulation/
